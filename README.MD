@@ -2,6 +2,7 @@
 
 Student: Nikita Krilovets
 Group: IT-31
+Email: nikita.krilovets@gimn14.lutsk.ua
 Course: Python programming, semester 1
 
 ## Contents
